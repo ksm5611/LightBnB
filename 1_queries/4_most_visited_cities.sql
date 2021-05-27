@@ -5,5 +5,3 @@ GROUP BY properties.city
 ORDER BY total_reservations DESC;
 
 
-desc - 큰거부터 작은거
-asc - 작은거부터 큰거
